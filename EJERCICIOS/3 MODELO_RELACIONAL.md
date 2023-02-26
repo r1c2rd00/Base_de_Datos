@@ -13,3 +13,6 @@ cada coche. Cada revisión tiene asociado un código que se incrementa automáti
 por cada revisión que se haga. De cada revisión se desea saber si se ha hecho cambio de
 filtro, si se ha hecho cambio de aceite, si se ha hecho cambio de frenos u otros. Los
 coches pueden pasar varias revisiones en el concesionario
+![image](https://user-images.githubusercontent.com/107652894/221386566-06103b9f-cfb9-4beb-bda0-f872d6f3d880.png)
+![image](https://user-images.githubusercontent.com/107652894/221386580-e58bf922-0c05-42ce-96d2-cae14cae7b8c.png)
+https://www.db-fiddle.com/f/jhPZAdoc7j4hNt6ewBqnPg/0
